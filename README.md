@@ -1,5 +1,5 @@
 # Przetwarzanie_i_Analiza_Danych
-Repozytorium zawiera zrealizowane zadania laboratoryjne w ramach zajęć "Przetwarzanie i Analiza danych" na Zachodniomorskim Uniwersytecie Technologicznym w Szczecinie
+Repozytorium zawiera zrealizowane zadania laboratoryjne w ramach zajęć "Przetwarzanie i Analiza danych" na Zachodniopomorskim Uniwersytecie Technologicznym w Szczecinie
 
 ## Dane techniczne
 Język: **Python** :snake: \
